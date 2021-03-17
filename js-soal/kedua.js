@@ -1,7 +1,6 @@
 function soalKedua(namaKantor, namaAnda){
     document.getElementById("hasil1").innerHTML = 'Error: buka console untuk lihat error';
-    // const varSoal2 = undefined;
-    let varSoal2 = undefined
+    const varSoal2 = undefined;
 
 
     // ------------------ code dibawah baris ini jangan dirubah ------------------

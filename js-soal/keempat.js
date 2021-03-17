@@ -1,6 +1,5 @@
 const soalKeempat = function(){
-    // const kebenaran = undefined;
-    const kebenaran = 1;
+    const kebenaran = undefined;
 
 
     // ------------------ code dibawah baris ini jangan dirubah ------------------

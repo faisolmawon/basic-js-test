@@ -1,10 +1,10 @@
 const soalKeenam = function(arrayDiolah){
-    // const kebenaran = undefined;
+    // belum dibuat
 
 
     // ------------------ code dibawah baris ini jangan dirubah ------------------
     try{
-        document.getElementById("hasil1").innerHTML = `nilai array ke 4 adalah ${arrayDiolah[3]}`
+        document.getElementById("hasil1").innerHTML = `nilai array ke 4 adalah ${arrayDiolah[9]}`
         loadSoalKetujuh();
     } catch(err){
         document.getElementById("hasil1").innerHTML = 'Error..'

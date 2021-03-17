@@ -1,6 +1,5 @@
 const soalKelima = function(){
-    // const arrayKelima = undefined;
-    const arrayKelima = [1,2,3];
+    const arrayKelima = undefined;
 
 
     // ------------------ code dibawah baris ini jangan dirubah ------------------
