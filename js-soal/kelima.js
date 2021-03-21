@@ -1,5 +1,5 @@
 const soalKelima = function(){
-    const arrayKelima = undefined;
+        const arrayKelima = [soalKelima];
 
 
     // ------------------ code dibawah baris ini jangan dirubah ------------------
