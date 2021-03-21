@@ -1,9 +1,11 @@
 let namaDefault = 'belum terganti'
 let nama 
 function soalPertama(insertedName){
-    
-    nama = document.getElementById("insertedName");
+
+    nama = document.getElementById("insertedName").value;
     value = nama
+    // let value = nama;
+
     // ------------------ code dibawah baris ini jangan dirubah ------------------
     console.log('console.log soal satu:\n\nvariable namaDefault:', `"${namaDefault}"`, 'varibale nama:', `"${nama}"`, 'variable value:', `"${value}"`)
     let elementHasil = document.getElementById("hasil1")
@@ -18,6 +20,5 @@ function soalPertama(insertedName){
             loadSoalKedua(nama);
         }
     }
-    return nama;
 };
     // --------------------- batas code untuk tidak dirubah ----------------------
