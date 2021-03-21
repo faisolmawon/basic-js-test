@@ -1,6 +1,6 @@
 const soalKeenam = function(arrayDiolah){
     // belum dibuat
-
+  arrayDiolah = [3,4,2,9]
 
     // ------------------ code dibawah baris ini jangan dirubah ------------------
     try{
