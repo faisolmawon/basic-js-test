@@ -1,5 +1,8 @@
+
 const soalKeempat = function(){
-    const kebenaran = undefined;
+    let array_ku =['yanuar', 'echo', 'mugi'];
+    const kebenaran = array_ku;
+
 
 
     // ------------------ code dibawah baris ini jangan dirubah ------------------
