@@ -1,9 +1,8 @@
 let namaDefault = 'belum terganti'
 
 function soalPertama(insertedName, value){
-    let nama 
-    console.log(soalPertama)
-    nama = document.getElementById("insertedName").value;
+    nama = insertedName;
+    value = nama;
     
     // ------------------ code dibawah baris ini jangan dirubah ------------------
     console.log('console.log soal satu:\n\nvariable namaDefault:', `"${namaDefault}"`, 'varibale nama:', `"${nama}"`, 'variable value:', `"${value}"`)
